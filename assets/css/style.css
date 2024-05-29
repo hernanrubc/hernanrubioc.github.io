@@ -1,0 +1,12 @@
+.navbarFondo{
+    background-color: #28A745;
+}
+
+
+.posicionHeader{
+    display: flex;
+    justify-content: flex-start; 
+}
+.elementosHeader{
+    margin-left: auto; 
+}
