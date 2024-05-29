@@ -1,5 +1,30 @@
+.fuenteTotal {
+    font-family: "Montserrat", sans-serif;
+}
+
+
 .navbarFondo{
-    background-color: #28A745;
+    background-color: #070b1a;
+    font-family: "Montserrat", sans-serif;
+}
+
+.fuenteSecciones h1{ 
+    color: #FEFCFB  ;
+    font-weight: bolder;
+    font-size: 30px;
+
+}
+
+.colorletranombre {
+    color: #FEFCFB;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.fuenteNavBar {
+    color: #FEFCFB;
+    font-weight: bold;
+    font-size: 20px;
 }
 
 
@@ -9,4 +34,47 @@
 }
 .elementosHeader{
     margin-left: auto; 
+}
+
+.fondo {
+    background-color: #0A1128;
+}
+
+section {
+    padding: 20px;
+}
+
+.centrarCard {
+    display: flex;
+    justify-content: center;
+}
+
+.resumen{
+    padding: 40px;
+    background-color: #0A1128;
+    color: #FEFCFB
+}
+
+.footerStyle {
+    
+    background-color: #070b1a;
+    color: #FEFCFB  ;
+
+}
+
+.footerStyle h1{
+
+    font-weight: bolder;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footerStyle p{
+
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
